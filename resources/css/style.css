@@ -35,3 +35,43 @@ nav span{
 a {
   color: seashell;
 }
+.main{
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+h2, h3, h4{
+  margin: 0;
+  padding: 10px;
+}
+#mission{
+  height: 700px;
+  background-image: url("../images/img-mission-background.jpg");
+  padding-top: 70px;
+}
+#mission .content{
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
+#store{
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
+.item {
+  padding: 5px;
+}
+.item img{
+  height: 200px;
+  margin: 10px;
+  display: block;
+}
+.item span{
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+  display: block;
+}
